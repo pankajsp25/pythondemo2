@@ -25,7 +25,7 @@ SECRET_KEY = '_6s1@&3@k%#yz2o9-+!%yftjd6i1+-uw!px!zwcj-p!ha*8us%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['python1.bptech.xyz', 'www.python1.bptech.xyz']
 
 
 # Application definition
