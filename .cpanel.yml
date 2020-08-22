@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - "export DEPLOYPATH=/home/o36lve8rwips/repositories/pythondemo2/"
+    - "/bin/cp -R images $DEPLOYPATH"
